@@ -1,0 +1,10 @@
+v1.1 - 11th November, 2018
+
+- Improved: Compatibility with Upcoming WordPress 5.0 and Latest Elementor as of today
+- Fixes: Elementor templates output being hidden when used inside tabs content
+- Fixes: Typo in element settings
+
+
+v1.0 - 5th April, 2018
+
+- Initial Release

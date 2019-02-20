@@ -1,0 +1,396 @@
+# Copyright (C) 2018 InfiWebs
+# This file is distributed under the same license as the Elegant Tabs for Elementor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elegant Tabs for Elementor 1.0\n"
+"Report-Msgid-Bugs-To: infiwebs@gmail.com\n"
+"POT-Creation-Date: 2018-03-27 20:07:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: elegant-tabs.php:51 elegant-tabs.php:90 elegant-tabs.php:429
+msgid "Elegant Tabs"
+msgstr ""
+
+#: elegant-tabs.php:97
+msgid "Tabs Items"
+msgstr ""
+
+#: elegant-tabs.php:101
+msgid "Tab #1"
+msgstr ""
+
+#: elegant-tabs.php:102
+msgid ""
+"I am first tab content. Click edit button to change this text. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: elegant-tabs.php:105
+msgid "Tab #2"
+msgstr ""
+
+#: elegant-tabs.php:106
+msgid ""
+"I am second tab content. Click edit button to change this text. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: elegant-tabs.php:109
+msgid "Tab #3"
+msgstr ""
+
+#: elegant-tabs.php:110
+msgid ""
+"I am third tab content. Click edit button to change this text. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: elegant-tabs.php:117 elegant-tabs.php:118 elegant-tabs.php:119
+msgid "Tab Title"
+msgstr ""
+
+#: elegant-tabs.php:125
+msgid "Tab ID"
+msgstr ""
+
+#: elegant-tabs.php:131
+msgid "Icon Type"
+msgstr ""
+
+#: elegant-tabs.php:132
+msgid "Do you like to use font icons or custom image icon?"
+msgstr ""
+
+#: elegant-tabs.php:142
+msgid "Icon"
+msgstr ""
+
+#: elegant-tabs.php:143
+msgid "Select the icon you would like to use for this tab."
+msgstr ""
+
+#: elegant-tabs.php:152
+msgid "Custom Image Icon"
+msgstr ""
+
+#: elegant-tabs.php:153
+msgid "Upload the custom image icon you would like to use for this tab."
+msgstr ""
+
+#: elegant-tabs.php:164
+msgid "Custom Image Icon on Hover & Active"
+msgstr ""
+
+#: elegant-tabs.php:165
+msgid ""
+"Upload the custom image icon you would like to use for this tab to display "
+"on hover and active state."
+msgstr ""
+
+#: elegant-tabs.php:176
+msgid "Image Icon Width"
+msgstr ""
+
+#: elegant-tabs.php:177
+msgid "Set the custom image icon width. Default is - 32px."
+msgstr ""
+
+#: elegant-tabs.php:189
+msgid "Image Icon Height"
+msgstr ""
+
+#: elegant-tabs.php:190
+msgid "Set the custom image icon height. Default is - 32px."
+msgstr ""
+
+#: elegant-tabs.php:202 elegant-tabs.php:531
+msgid "Content"
+msgstr ""
+
+#: elegant-tabs.php:203
+msgid "Tab Content"
+msgstr ""
+
+#: elegant-tabs.php:209
+msgid "Content Columns"
+msgstr ""
+
+#: elegant-tabs.php:210
+msgid "Set the number of columns the content can be divided."
+msgstr ""
+
+#: elegant-tabs.php:219
+msgid "Column Spacing"
+msgstr ""
+
+#: elegant-tabs.php:220
+msgid "Controls the gap between the columns. In pixels (px)."
+msgstr ""
+
+#: elegant-tabs.php:230
+msgid "Select border around content columns."
+msgstr ""
+
+#: elegant-tabs.php:232
+msgid "None"
+msgstr ""
+
+#: elegant-tabs.php:243
+msgid "Select border width. In pixels (px)."
+msgstr ""
+
+#: elegant-tabs.php:256
+msgid "Select border color."
+msgstr ""
+
+#: elegant-tabs.php:272
+msgid "Elegant Tabs Settings"
+msgstr ""
+
+#: elegant-tabs.php:280
+msgid "Tab Style"
+msgstr ""
+
+#: elegant-tabs.php:281 elegant-tabs.php:346
+msgid "Choose the tabs layout you would like to use."
+msgstr ""
+
+#: elegant-tabs.php:303
+msgid "Auto Switch Tabs"
+msgstr ""
+
+#: elegant-tabs.php:304
+msgid "Check if you want to auto switch tabs with interval."
+msgstr ""
+
+#: elegant-tabs.php:306 elegant-tabs.php:362
+msgid "Yes"
+msgstr ""
+
+#: elegant-tabs.php:307 elegant-tabs.php:363
+msgid "No"
+msgstr ""
+
+#: elegant-tabs.php:316
+msgid "Auto Switch Interval"
+msgstr ""
+
+#: elegant-tabs.php:317
+msgid "Enter the interval in seconds you want the tabs to auto switch. eg. 5."
+msgstr ""
+
+#: elegant-tabs.php:332
+msgid "Default Active Tab Number"
+msgstr ""
+
+#: elegant-tabs.php:333
+msgid ""
+"Enter the number of the tab to be active on load. Enter 0 to hide all tab "
+"content on load."
+msgstr ""
+
+#: elegant-tabs.php:345
+msgid "Tab Type"
+msgstr ""
+
+#: elegant-tabs.php:349
+msgid "Hotizontal Tabs"
+msgstr ""
+
+#: elegant-tabs.php:350
+msgid "Vertical Tabs"
+msgstr ""
+
+#: elegant-tabs.php:359
+msgid "Justified Tabs"
+msgstr ""
+
+#: elegant-tabs.php:360
+msgid ""
+"This will set all tabs with same justified width. Only works with "
+"horizontal tabs."
+msgstr ""
+
+#: elegant-tabs.php:375
+msgid "Tab Alignment"
+msgstr ""
+
+#: elegant-tabs.php:376
+msgid "Align your tabs. Works only for horizontal tab type."
+msgstr ""
+
+#: elegant-tabs.php:380
+msgid "Left"
+msgstr ""
+
+#: elegant-tabs.php:384
+msgid "Center"
+msgstr ""
+
+#: elegant-tabs.php:388
+msgid "Right"
+msgstr ""
+
+#: elegant-tabs.php:402
+msgid "Tab Content Animation"
+msgstr ""
+
+#: elegant-tabs.php:403
+msgid "Animate your tab content when it appears!"
+msgstr ""
+
+#: elegant-tabs.php:414
+msgid "Tabs on mobile devices"
+msgstr ""
+
+#: elegant-tabs.php:415
+msgid "Select how tabs should behave on mobile devices."
+msgstr ""
+
+#: elegant-tabs.php:418
+msgid "Dropdown Select"
+msgstr ""
+
+#: elegant-tabs.php:419
+msgid "Tabs to Accordion"
+msgstr ""
+
+#: elegant-tabs.php:446
+msgid "Normal State"
+msgstr ""
+
+#: elegant-tabs.php:455
+msgid "Tab Text Color"
+msgstr ""
+
+#: elegant-tabs.php:456
+msgid "The font color of the inactive Tab in this set."
+msgstr ""
+
+#: elegant-tabs.php:465
+msgid "Tab Background Color"
+msgstr ""
+
+#: elegant-tabs.php:466
+msgid "The background color of the inactive Tab in this set."
+msgstr ""
+
+#: elegant-tabs.php:475
+msgid "Active State"
+msgstr ""
+
+#: elegant-tabs.php:484
+msgid "Active Tab Text Color"
+msgstr ""
+
+#: elegant-tabs.php:485
+msgid "The font color of the active Tab in this set."
+msgstr ""
+
+#: elegant-tabs.php:494
+msgid "Active Tab Background Color"
+msgstr ""
+
+#: elegant-tabs.php:495
+msgid "The background color of the active Tab in this set."
+msgstr ""
+
+#: elegant-tabs.php:504
+msgid "Hover State"
+msgstr ""
+
+#: elegant-tabs.php:513
+msgid "Tab Hover Text Color"
+msgstr ""
+
+#: elegant-tabs.php:514
+msgid "The font color of the tab on hover."
+msgstr ""
+
+#: elegant-tabs.php:522
+msgid "Tab Hover Background Color"
+msgstr ""
+
+#: elegant-tabs.php:523
+msgid "The background color of the tab on hover."
+msgstr ""
+
+#: elegant-tabs.php:540
+msgid "Tab Content Background Color"
+msgstr ""
+
+#: elegant-tabs.php:541
+msgid "The background color of the tab content area."
+msgstr ""
+
+#: elegant-tabs.php:549
+msgid "Tab Content Text Color"
+msgstr ""
+
+#: elegant-tabs.php:550
+msgid "The text color of the tab content."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Elegant Tabs for Elementor"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://infiwebs.com/elegant-tabs-elementor/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Elegant Tabs add-on for Elementor Page Builder."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "InfiWebs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.infiwebs.com"
+msgstr ""
+
+#: elegant-tabs.php:229
+msgctxt "Border Control"
+msgid "Border Type"
+msgstr ""
+
+#: elegant-tabs.php:233
+msgctxt "Border Control"
+msgid "Solid"
+msgstr ""
+
+#: elegant-tabs.php:234
+msgctxt "Border Control"
+msgid "Double"
+msgstr ""
+
+#: elegant-tabs.php:235
+msgctxt "Border Control"
+msgid "Dotted"
+msgstr ""
+
+#: elegant-tabs.php:236
+msgctxt "Border Control"
+msgid "Dashed"
+msgstr ""
+
+#: elegant-tabs.php:242
+msgctxt "Border Control"
+msgid "Border Width"
+msgstr ""
+
+#: elegant-tabs.php:255
+msgctxt "Border Control"
+msgid "Border Color"
+msgstr ""
